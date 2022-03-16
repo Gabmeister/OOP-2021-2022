@@ -94,7 +94,7 @@ public class BugZap extends PApplet {
 			{
 				line(playerX, playerY, playerX, 0);
 			}
-		}
+		}	
 	}
 
 	void moveBug() {
